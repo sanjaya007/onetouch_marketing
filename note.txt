@@ -1,0 +1,40 @@
+  salaryRange: {
+    business: {
+      any: [500, 1000, 1500],
+      project_management: [1500, 2000, 2500, 3000]
+    },
+    QA_engineer: {
+      manual: [1000, 1500, 2000, 2500],
+      automated: [2000, 2500, 3000, 3500]
+    },
+
+    frontend_developer: {
+      any: [1500, 2000, 2500]
+    },
+
+    backend_developer: {
+      any: [1500, 2000, 2500, 3000],
+      full_stack: [2000, 2500, 3000, 3500]
+    },
+
+    mobile_developer: {
+      android: [1200, 1500, 2000, 2500],
+      ios: [1800, 2000, 2500, 3000],
+      react_native: [1500, 2000, 2500, 3000]
+    }
+  }
+};
+
+#cost
+talents time zone : 400 
+your time zone : 500
+
+
+junior : 0
+intermediate: 50
+senior: 100
+
+
+
+
+
